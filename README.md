@@ -12,6 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `Routes`
-/  \
-/home \
-/main \
+home page - /  \
+details page - /details \
+questions page - /main 
